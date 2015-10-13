@@ -1,0 +1,4 @@
+name: Ceph storage node image
+maintainers:
+- Simon Alcott Minter <salcott@redhat.com>
+description: Provides a standard Ceph setup with various sd devices configured for use. 

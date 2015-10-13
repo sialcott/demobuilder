@@ -1,0 +1,7 @@
+name: RHEL 7 Server image
+layer:
+  cups: 2
+  disk: 60
+
+maintainers:
+- Jim Minter <jminter@redhat.com>
